@@ -3,7 +3,7 @@
 
 
 /*1 – Trazer todos os dados.*/
-select * from livros;
+SELECT * FROM LIVROS;
 
 /*2 – Trazer o nome do livro e o nome da editora*/
 SELECT LIVRO, EDITORA
