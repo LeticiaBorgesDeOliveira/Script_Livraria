@@ -7,7 +7,7 @@
 
 ## 👩🏽‍💻 Sobre o projeto
 
-**Script_Funcionários** é um projeto que desenvolvi para mostrar alguns codigos em SQL que se podem ser criados com o nivel iniciante.
+**Script_Livraria** é um projeto que desenvolvi para mostrar alguns codigos em SQL que se podem ser criados com o nivel iniciante.
 
 ## 💻 Tecnologias utilizadas neste projeto 
 <h1 align="center">
